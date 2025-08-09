@@ -23,8 +23,8 @@ function verificarIntento() {
   if (numeroDeUsuario === numeroSecreto) {
     asignarTextoElemento(
       "p",
-      `🎯 ¡Acertaste el número <br>
-           ${intentos} ${intentos === 1 ? "intento" : "intentos"}!`
+      `🎯 ¡Acertaste el número! <br>
+           ${intentos} ${intentos === 1 ? "intento" : "intentos"}`
     );
     document.getElementById("reiniciar").removeAttribute("disabled");
   } else {
@@ -69,3 +69,4 @@ document
 // Mensajes iniciales
 asignarTextoElemento("h1", "🎲 SecretNumber");
 asignarTextoElemento("p", "Introduce un número del 1 al 10");
+
