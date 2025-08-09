@@ -48,14 +48,8 @@ Desarrollado como parte del programa [**Oracle Next Education (ONE)**](https://w
 ---
 
 ## 🖼️ Vista Previa
-![Preview](./img/preview.gif)
+  <img alt="JavaScript" src="https://img/c1.png"> 
 
----
-
-## 📸 Capturas
-| Pantalla principal | Fondo y elementos |
-|--------------------|-------------------|
-| ![Pantalla principal](./img/code.png) | ![Fondo](./img/bg.png) |
 
 ---
 
