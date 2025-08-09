@@ -10,6 +10,12 @@
 > Juego interactivo en HTML, CSS y JavaScript para adivinar un número aleatorio del 1 al 10.
 
 ---
+## 🌐 Demo en Vivo
+
+**¡Juega directamente en tu navegador!**  
+[![Probar Online](https://img.shields.io/badge/%F0%9F%8E%AF-Probar_Juego_Online-blue)](https://mikeismerio.github.io/Numero-Secreto/)
+
+---
 
 ## 🔍 Tabla de Contenidos
 1. [Descripción](#-descripción)
