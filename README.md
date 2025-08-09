@@ -48,8 +48,12 @@ Desarrollado como parte del programa [**Oracle Next Education (ONE)**](https://w
 ---
 
 ## 🖼️ Vista Previa
-  <img alt="JavaScript" src="https://img/c1.png"> 
 
+<p align="center">
+  <img src="./img/c1.png" alt="Vista previa 1" width="250">
+  <img src="./img/c2.png" alt="Vista previa 2" width="250">
+  <img src="./img/c3.png" alt="Vista previa 3" width="250">
+</p>
 
 ---
 
