@@ -5,8 +5,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222"> 
   <img alt="ONE" src="https://img.shields.io/badge/Oracle%20Next%20Education-ONE-E2231A?logo=oracle&logoColor=white"> 
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-2ea44f"> 
-  <img alt="Status" src="https://img.shields.io/badge/Status-Activo-brightgreen"> 
 </p>
 
 > Juego interactivo en HTML, CSS y JavaScript para adivinar un número aleatorio del 1 al 10. Interfaz limpia, validación inteligente y mejoras de UX como autoenfoque, validaciones y reinicio rápido.
