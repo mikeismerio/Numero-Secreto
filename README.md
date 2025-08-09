@@ -7,7 +7,7 @@
   <img alt="ONE" src="https://img.shields.io/badge/Oracle%20Next%20Education-ONE-E2231A?logo=oracle&logoColor=white"> 
 </p>
 
-> Juego interactivo en HTML, CSS y JavaScript para adivinar un número aleatorio del 1 al 10. Interfaz limpia, validación inteligente y mejoras de UX como autoenfoque, validaciones y reinicio rápido.
+> Juego interactivo en HTML, CSS y JavaScript para adivinar un número aleatorio del 1 al 10.
 
 ---
 
