@@ -1,5 +1,5 @@
 🎯 SecretNumber – Adivina el Número Secreto
-<p align="left"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222"> <img alt="ONE" src="https://img.shields.io/badge/Oracle%20Next%20Education-ONE-E2231A?logo=oracle&logoColor=white"> <img alt="License" src="https://img.shields.io/badge/License-MIT-2ea44f"> <img alt="Status" src="https://img.shields.io/badge/Status-Activo-brightgreen"> </p>
+<p align="left"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222"> <img alt="ONE" src="https://img.shields.io/badge/Oracle%20Next%20Education-ONE-E2231A?logo=oracle&logoColor=white">  </p>
 📌 Descripción
 SecretNumber es un juego interactivo en HTML, CSS y JavaScript para adivinar un número aleatorio del 1 al 10.
 Su interfaz es limpia, con retroalimentación clara y mejoras de UX como:
